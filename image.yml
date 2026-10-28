@@ -8,9 +8,14 @@ summary: |-
 upstream:
   url: https://ui.com/
   version:
-    type: command
-    run: |-
-      curl -sX GET 'https://fw-update.ubnt.com/api/firmware-latest?filter=eq~~product~~unifi-controller&filter=eq~~platform~~unix&filter=eq~~channel~~release' | jq -r '._embedded.firmware[].version' | awk -F '+' '{print $1}' | tr -d 'v'
+    type: json
+    url: https://fw-update.ubnt.com/api/firmware-latest?filter=eq~~product~~unifi-controller&filter=eq~~platform~~unix&filter=eq~~channel~~release
+    jq: ._embedded.firmware[].version
+    transform:
+    - regex: \+.*$
+      replace: ''
+    - regex: v
+      replace: ''
 
 release:
   branch: main
