@@ -13,7 +13,7 @@ apt-utils                             3.2.0                                  deb
 asn-one                               0.6.0                                  java-archive                  
 aws-iot-device-sdk-java               1.2.0                                  java-archive                  
 aws-java-sdk-core                     1.12.777                               java-archive                  
-base-files                            14ubuntu6.2                            deb                           
+base-files                            14ubuntu6.3                            deb                           
 base-passwd                           3.6.8                                  deb                           
 bash                                  5.3-2ubuntu1                           deb                           
 bash-completion                       1:2.16.0-8build1                       deb                           
@@ -204,7 +204,7 @@ libpam-modules                        1.7.0-5ubuntu3.2                       deb
 libpam-modules-bin                    1.7.0-5ubuntu3.2                       deb                           
 libpam-runtime                        1.7.0-5ubuntu3.2                       deb                           
 libpam0g                              1.7.0-5ubuntu3.2                       deb                           
-libpcre2-8-0                          10.46-1build1                          deb                           
+libpcre2-8-0                          10.46-1ubuntu0.1                       deb                           
 libpcsclite1                          2.4.1-1                                deb                           
 libpopt0                              1.19+dfsg-2build1                      deb                           
 libproc2-0                            2:4.0.4-9ubuntu1                       deb                           
