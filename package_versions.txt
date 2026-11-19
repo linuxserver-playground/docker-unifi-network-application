@@ -135,7 +135,7 @@ jmdns                                 3.4.1                                  jav
 jna                                   5.12.1                                 java-archive                  
 joda-time                             2.12.7                                 java-archive                  
 jq                                    1.8.1-4ubuntu2                         deb                           
-jrt-fs                                25.0.5.0.3                             java-archive                  
+jrt-fs                                25.0.5.1                               java-archive                  
 json                                  20231013                               java-archive                  
 jsonschema-generator                  4.37.0                                 java-archive                  
 jsonschema-module-jackson             4.37.0                                 java-archive                  
@@ -256,7 +256,7 @@ mount                                 2.41.3-3ubuntu2.2                      deb
 ncurses-base                          6.6+20251231-1                         deb                           
 ncurses-bin                           6.6+20251231-1                         deb                           
 netcat-openbsd                        1.234-1                                deb                           
-openjdk-25-jre-headless               25.0.5.0.3+1-1~26.04.1                 deb                           
+openjdk-25-jre-headless               25.0.5.1+2-1~26.04.1                   deb                           
 openssh                               1.0                                    java-archive                  
 openssl                               3.5.5-1ubuntu3.7                       deb                           
 openssl-provider-legacy               3.5.5-1ubuntu3.7                       deb                           
