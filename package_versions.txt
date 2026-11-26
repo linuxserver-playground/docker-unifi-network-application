@@ -220,7 +220,7 @@ libsemanage-common                    3.9-1build1                            deb
 libsemanage2                          3.9-1build1                            deb                           
 libsepol2                             3.9-2                                  deb                           
 libsmartcols1                         2.41.3-3ubuntu2.2                      deb                           
-libsqlite3-0                          3.46.1-9ubuntu0.3                      deb                           
+libsqlite3-0                          3.46.1-9ubuntu0.4                      deb                           
 libss2                                1.47.2-3ubuntu4                        deb                           
 libssh2-1t64                          1.11.1-1ubuntu0.26.04.4                deb                           
 libssl3t64                            3.5.5-1ubuntu3.7                       deb                           
@@ -323,7 +323,7 @@ tomcat-embed-core                     10.1.54                                jav
 tomcat-embed-el                       10.1.54                                java-archive                  
 tomcat-embed-websocket                10.1.54                                java-archive                  
 txw2                                  4.0.6                                  java-archive                  
-tzdata                                2026e-0ubuntu0.26.04.1                 deb                           
+tzdata                                2026f-0ubuntu0.26.04.1                 deb                           
 ubuntu-keyring                        2023.11.28.1build1                     deb                           
 unzip                                 6.0-29ubuntu1                          deb                           
 urlrewritefilter                      4.0.4.1                                java-archive                  
